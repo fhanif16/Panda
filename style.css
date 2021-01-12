@@ -1,0 +1,15 @@
+.footer{
+   border:0px;
+   background-color: white;
+   margin-bottom: 5px;
+   margin-left: 2px;
+}
+.picture img{
+   margin-top: 10px;
+   width:100px;
+   
+}
+.picture{
+  
+   border-radius: 5px;
+}
